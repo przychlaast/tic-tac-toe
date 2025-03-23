@@ -1,1 +1,1 @@
-**kolko i krzyzyk pozdrooooo**
+### Implementacja prostej gry w kółko i krzyżyk
